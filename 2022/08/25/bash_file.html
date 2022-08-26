@@ -10,15 +10,15 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="XC Info Site" />
 <meta property="og:description" content="XC Info Site" />
-<link rel="canonical" href="https://syeung2.github.io/xc22/2022/08/24/bash_file.html" />
-<meta property="og:url" content="https://syeung2.github.io/xc22/2022/08/24/bash_file.html" />
+<link rel="canonical" href="https://syeung2.github.io/xc22/2022/08/25/bash_file.html" />
+<meta property="og:url" content="https://syeung2.github.io/xc22/2022/08/25/bash_file.html" />
 <meta property="og:site_name" content="XC22" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-08-24T00:00:00-05:00" />
+<meta property="article:published_time" content="2022-08-25T00:00:00-05:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Title" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-08-24T00:00:00-05:00","datePublished":"2022-08-24T00:00:00-05:00","description":"XC Info Site","headline":"Title","mainEntityOfPage":{"@type":"WebPage","@id":"https://syeung2.github.io/xc22/2022/08/24/bash_file.html"},"url":"https://syeung2.github.io/xc22/2022/08/24/bash_file.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-08-25T00:00:00-05:00","datePublished":"2022-08-25T00:00:00-05:00","description":"XC Info Site","headline":"Title","mainEntityOfPage":{"@type":"WebPage","@id":"https://syeung2.github.io/xc22/2022/08/25/bash_file.html"},"url":"https://syeung2.github.io/xc22/2022/08/25/bash_file.html"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/xc22/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://syeung2.github.io/xc22/feed.xml" title="XC22" /><link rel="shortcut icon" type="image/x-icon" href="/xc22/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
@@ -73,13 +73,13 @@ window.onload = wrap_img;
         <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Title</h1><p class="post-meta post-meta-title"><time class="dt-published" datetime="2022-08-24T00:00:00-05:00" itemprop="datePublished">
-        Aug 24, 2022
+    <h1 class="post-title p-name" itemprop="name headline">Title</h1><p class="post-meta post-meta-title"><time class="dt-published" datetime="2022-08-25T00:00:00-05:00" itemprop="datePublished">
+        Aug 25, 2022
       </time>
        • <span class="read-time" title="Estimated read time">
     
     
-      4 min read
+      5 min read
     
 </span></p>
 
@@ -128,8 +128,16 @@ window.onload = wrap_img;
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <hr />
-<p>title: "Bash File"</p>
-<h2 id="layout:-post">layout: post<a class="anchor-link" href="#layout:-post"> </a></h2>
+<p>title: "Bash Commands"
+description: "My bash commands"
+layout: post
+toc: false
+comments: true
+hide: false
+search_exclude: true
+categories: [fastpages, jupyter]
+metadata_key1: metadata_value1</p>
+<h2 id="metadata_key2:-metadata_value2">metadata_key2: metadata_value2<a class="anchor-link" href="#metadata_key2:-metadata_value2"> </a></h2>
 </div>
 </div>
 </div>
@@ -179,8 +187,16 @@ window.onload = wrap_img;
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>Using conditional statement to create a project directory and project
-Directory /home/syeung/vscode exists.
-Directory /home/syeung/vscode/APCSP exists.
+Directory /home/syeung2/vscode exists.
+Directory /home/syeung2/vscode/APCSP does not exists... cloning https://github.com/nighthawkcoders/APCSP.git
+Cloning into &#39;APCSP&#39;...
+remote: Enumerating objects: 9173, done.
+remote: Counting objects: 100% (748/748), done.
+remote: Compressing objects: 100% (313/313), done.
+remote: Total 9173 (delta 454), reused 702 (delta 414), pack-reused 8425
+Receiving objects: 100% (9173/9173), 16.49 MiB | 12.58 MiB/s, done.
+Resolving deltas: 100% (4949/4949), done.
+Directory /home/syeung2/vscode/APCSP exists.
 </pre>
 </div>
 </div>
@@ -226,7 +242,7 @@ ls -al   <span class="c1"># all files and long listing</span>
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>Navigate to project, then navigate to area wwhere files were cloned
-/home/syeung/vscode/APCSP
+/home/syeung2/vscode/APCSP
 
 list top level or root of files with project pulled from github
 <span class="ansi-green-intense-fg ansi-bold">Gemfile</span>    <span class="ansi-blue-intense-fg ansi-bold">_action_files</span>    <span class="ansi-blue-intense-fg ansi-bold">_layouts</span>    <span class="ansi-blue-intense-fg ansi-bold">_posts</span>  <span class="ansi-green-intense-fg ansi-bold">docker-compose.yml</span>
@@ -244,34 +260,34 @@ list again with hidden files pulled from github
 
 list all files in long format
 total 120
-drwxr-xr-x 18 syeung syeung  4096 Aug 14 22:45 <span class="ansi-blue-intense-fg ansi-bold">.</span>
-drwxr-xr-x  4 syeung syeung  4096 Aug 23 11:40 <span class="ansi-blue-intense-fg ansi-bold">..</span>
--rw-r--r--  1 syeung syeung   420 Aug 14 22:45 .devcontainer.json
-drwxr-xr-x  8 syeung syeung  4096 Aug 25 11:19 <span class="ansi-blue-intense-fg ansi-bold">.git</span>
--rw-r--r--  1 syeung syeung    84 Aug 14 22:45 .gitattributes
-drwxr-xr-x  4 syeung syeung  4096 Aug 14 22:45 <span class="ansi-blue-intense-fg ansi-bold">.github</span>
--rw-r--r--  1 syeung syeung   917 Aug 14 22:45 .gitignore
-drwxr-xr-x  2 syeung syeung  4096 Aug 23 11:45 <span class="ansi-blue-intense-fg ansi-bold">.vscode</span>
--rwxr-xr-x  1 syeung syeung  1304 Aug 14 22:45 <span class="ansi-green-intense-fg ansi-bold">Gemfile</span>
--rw-r--r--  1 syeung syeung 11351 Aug 14 22:45 LICENSE
--rwxr-xr-x  1 syeung syeung  1422 Aug 14 22:45 <span class="ansi-green-intense-fg ansi-bold">Makefile</span>
--rwxr-xr-x  1 syeung syeung  3614 Aug 14 22:45 <span class="ansi-green-intense-fg ansi-bold">README.md</span>
-drwxr-xr-x  2 syeung syeung  4096 Aug 14 22:45 <span class="ansi-blue-intense-fg ansi-bold">_action_files</span>
--rw-r--r--  1 syeung syeung  3716 Aug 14 22:45 _config.yml
-drwxr-xr-x  2 syeung syeung  4096 Aug 14 22:45 <span class="ansi-blue-intense-fg ansi-bold">_fastpages_docs</span>
-drwxr-xr-x  2 syeung syeung  4096 Aug 14 22:45 <span class="ansi-blue-intense-fg ansi-bold">_includes</span>
-drwxr-xr-x  2 syeung syeung  4096 Aug 14 22:45 <span class="ansi-blue-intense-fg ansi-bold">_layouts</span>
-drwxr-xr-x  4 syeung syeung  4096 Aug 25 11:19 <span class="ansi-blue-intense-fg ansi-bold">_notebooks</span>
-drwxr-xr-x  2 syeung syeung  4096 Aug 23 11:45 <span class="ansi-blue-intense-fg ansi-bold">_pages</span>
-drwxr-xr-x  2 syeung syeung  4096 Aug 14 22:45 <span class="ansi-blue-intense-fg ansi-bold">_plugins</span>
-drwxr-xr-x  2 syeung syeung  4096 Aug 23 11:45 <span class="ansi-blue-intense-fg ansi-bold">_posts</span>
-drwxr-xr-x  3 syeung syeung  4096 Aug 14 22:45 <span class="ansi-blue-intense-fg ansi-bold">_sass</span>
-drwxr-xr-x  2 syeung syeung  4096 Aug 14 22:45 <span class="ansi-blue-intense-fg ansi-bold">_word</span>
-drwxr-xr-x  4 syeung syeung  4096 Aug 14 22:45 <span class="ansi-blue-intense-fg ansi-bold">assets</span>
--rwxr-xr-x  1 syeung syeung  1136 Aug 14 22:45 <span class="ansi-green-intense-fg ansi-bold">docker-compose.yml</span>
-drwxr-xr-x  5 syeung syeung  4096 Aug 23 11:45 <span class="ansi-blue-intense-fg ansi-bold">images</span>
--rw-r--r--  1 syeung syeung  1061 Aug 14 22:45 index.html
-drwxr-xr-x  2 syeung syeung  4096 Aug 14 22:45 <span class="ansi-blue-intense-fg ansi-bold">python</span>
+drwxr-xr-x 18 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">.</span>
+drwxr-xr-x  4 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">..</span>
+-rw-r--r--  1 syeung2 syeung2   420 Aug 25 22:34 .devcontainer.json
+drwxr-xr-x  8 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">.git</span>
+-rw-r--r--  1 syeung2 syeung2    84 Aug 25 22:34 .gitattributes
+drwxr-xr-x  4 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">.github</span>
+-rw-r--r--  1 syeung2 syeung2   917 Aug 25 22:34 .gitignore
+drwxr-xr-x  2 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">.vscode</span>
+-rwxr-xr-x  1 syeung2 syeung2  1304 Aug 25 22:34 <span class="ansi-green-intense-fg ansi-bold">Gemfile</span>
+-rw-r--r--  1 syeung2 syeung2 11351 Aug 25 22:34 LICENSE
+-rwxr-xr-x  1 syeung2 syeung2  1422 Aug 25 22:34 <span class="ansi-green-intense-fg ansi-bold">Makefile</span>
+-rwxr-xr-x  1 syeung2 syeung2  3614 Aug 25 22:34 <span class="ansi-green-intense-fg ansi-bold">README.md</span>
+drwxr-xr-x  2 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">_action_files</span>
+-rw-r--r--  1 syeung2 syeung2  3716 Aug 25 22:34 _config.yml
+drwxr-xr-x  2 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">_fastpages_docs</span>
+drwxr-xr-x  2 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">_includes</span>
+drwxr-xr-x  2 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">_layouts</span>
+drwxr-xr-x  3 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">_notebooks</span>
+drwxr-xr-x  2 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">_pages</span>
+drwxr-xr-x  2 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">_plugins</span>
+drwxr-xr-x  2 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">_posts</span>
+drwxr-xr-x  3 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">_sass</span>
+drwxr-xr-x  2 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">_word</span>
+drwxr-xr-x  4 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">assets</span>
+-rwxr-xr-x  1 syeung2 syeung2  1136 Aug 25 22:34 <span class="ansi-green-intense-fg ansi-bold">docker-compose.yml</span>
+drwxr-xr-x  5 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">images</span>
+-rw-r--r--  1 syeung2 syeung2  1061 Aug 25 22:34 index.html
+drwxr-xr-x  2 syeung2 syeung2  4096 Aug 25 22:34 <span class="ansi-blue-intense-fg ansi-bold">python</span>
 </pre>
 </div>
 </div>
@@ -346,35 +362,35 @@ ls -l  <span class="c1"># list posts</span>
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>Look for posts
-/home/syeung/vscode/APCSP/_posts
+/home/syeung2/vscode/APCSP/_posts
 total 228
--rw-r--r-- 1 syeung syeung 21306 Aug 14 22:45 2022-06-01-TT160-deploy.md
--rw-r--r-- 1 syeung syeung  5861 Aug 14 22:45 2022-07-07-PBL-binary.md
--rw-r--r-- 1 syeung syeung  3085 Aug 14 22:45 2022-07-08-PBL-grade_calc.md
--rw-r--r-- 1 syeung syeung  3698 Aug 14 22:45 2022-07-08-PBL-graph.md
--rw-r--r-- 1 syeung syeung  5729 Aug 14 22:45 2022-07-08-PBL-life.md
--rw-r--r-- 1 syeung syeung 14387 Aug 14 22:45 2022-07-08-PBL-snake.md
--rw-r--r-- 1 syeung syeung   334 Aug 14 22:45 2022-07-10-PBL-database.md
--rw-r--r-- 1 syeung syeung  2908 Aug 14 22:45 2022-07-10-PBL-jokes.md
--rw-r--r-- 1 syeung syeung  4046 Aug 14 22:45 2022-07-10-PBL-rapidapi.md
--rw-r--r-- 1 syeung syeung  6685 Aug 14 22:45 2022-07-19-PBL-calculator.md
--rw-r--r-- 1 syeung syeung 23325 Aug 14 22:45 2022-07-25-CSP-workshop.md
--rw-r--r-- 1 syeung syeung  2333 Aug 14 22:45 2022-08-15-TP000-student_score_history.md
--rw-r--r-- 1 syeung syeung  4363 Aug 14 22:45 2022-08-15-TP100-pseudo_code.md
--rw-r--r-- 1 syeung syeung  7968 Aug 23 11:45 2022-08-15-TR100-tool_setup.md
--rw-r--r-- 1 syeung syeung 15026 Aug 23 11:45 2022-08-15-TT100-tools.md
--rw-r--r-- 1 syeung syeung  5590 Aug 23 11:45 2022-08-15-TT101-vscode-wsl.md
--rw-r--r-- 1 syeung syeung  2155 Aug 23 11:45 2022-08-22-TR110-intro_python.md
--rw-r--r-- 1 syeung syeung  5173 Aug 14 22:45 2022-08-22-TT110-fastpages.md
--rw-r--r-- 1 syeung syeung  2798 Aug 23 11:45 2022-08-22-TT110-focus.md
--rw-r--r-- 1 syeung syeung  2737 Aug 14 22:45 2022-08-29-TR120-data_abstract.md
--rw-r--r-- 1 syeung syeung 10683 Aug 14 22:45 2022-08-29-TT120-agile.md
--rw-r--r-- 1 syeung syeung  4498 Aug 14 22:45 2022-08-29-TT120-html_fragments.md
--rw-r--r-- 1 syeung syeung  9037 Aug 14 22:45 2022-09-05-TP130-create_performance_task.md
--rw-r--r-- 1 syeung syeung  7753 Aug 14 22:45 2022-09-05-TP131-create-task-bria.md
--rw-r--r-- 1 syeung syeung  8066 Aug 14 22:45 2022-09-05-TR130-creative_development.md
--rw-r--r-- 1 syeung syeung  3520 Aug 14 22:45 2022-09-05-TT130-applab.md
--rw-r--r-- 1 syeung syeung   720 Aug 14 22:45 README.md
+-rw-r--r-- 1 syeung2 syeung2 21306 Aug 25 22:34 2022-06-01-TT160-deploy.md
+-rw-r--r-- 1 syeung2 syeung2  5861 Aug 25 22:34 2022-07-07-PBL-binary.md
+-rw-r--r-- 1 syeung2 syeung2  3085 Aug 25 22:34 2022-07-08-PBL-grade_calc.md
+-rw-r--r-- 1 syeung2 syeung2  3698 Aug 25 22:34 2022-07-08-PBL-graph.md
+-rw-r--r-- 1 syeung2 syeung2  5729 Aug 25 22:34 2022-07-08-PBL-life.md
+-rw-r--r-- 1 syeung2 syeung2 14387 Aug 25 22:34 2022-07-08-PBL-snake.md
+-rw-r--r-- 1 syeung2 syeung2   334 Aug 25 22:34 2022-07-10-PBL-database.md
+-rw-r--r-- 1 syeung2 syeung2  2908 Aug 25 22:34 2022-07-10-PBL-jokes.md
+-rw-r--r-- 1 syeung2 syeung2  4046 Aug 25 22:34 2022-07-10-PBL-rapidapi.md
+-rw-r--r-- 1 syeung2 syeung2  6685 Aug 25 22:34 2022-07-19-PBL-calculator.md
+-rw-r--r-- 1 syeung2 syeung2 23325 Aug 25 22:34 2022-07-25-CSP-workshop.md
+-rw-r--r-- 1 syeung2 syeung2  2333 Aug 25 22:34 2022-08-15-TP000-student_score_history.md
+-rw-r--r-- 1 syeung2 syeung2  4363 Aug 25 22:34 2022-08-15-TP100-pseudo_code.md
+-rw-r--r-- 1 syeung2 syeung2  7968 Aug 25 22:34 2022-08-15-TR100-tool_setup.md
+-rw-r--r-- 1 syeung2 syeung2 15409 Aug 25 22:34 2022-08-15-TT100-tools.md
+-rw-r--r-- 1 syeung2 syeung2  5590 Aug 25 22:34 2022-08-15-TT101-vscode-wsl.md
+-rw-r--r-- 1 syeung2 syeung2  2155 Aug 25 22:34 2022-08-22-TR110-intro_python.md
+-rw-r--r-- 1 syeung2 syeung2  5173 Aug 25 22:34 2022-08-22-TT110-fastpages.md
+-rw-r--r-- 1 syeung2 syeung2  2798 Aug 25 22:34 2022-08-22-TT110-focus.md
+-rw-r--r-- 1 syeung2 syeung2  2737 Aug 25 22:34 2022-08-29-TR120-data_abstract.md
+-rw-r--r-- 1 syeung2 syeung2 10683 Aug 25 22:34 2022-08-29-TT120-agile.md
+-rw-r--r-- 1 syeung2 syeung2  4498 Aug 25 22:34 2022-08-29-TT120-html_fragments.md
+-rw-r--r-- 1 syeung2 syeung2  9037 Aug 25 22:34 2022-09-05-TP130-create_performance_task.md
+-rw-r--r-- 1 syeung2 syeung2  7753 Aug 25 22:34 2022-09-05-TP131-create-task-bria.md
+-rw-r--r-- 1 syeung2 syeung2  8066 Aug 25 22:34 2022-09-05-TR130-creative_development.md
+-rw-r--r-- 1 syeung2 syeung2  3520 Aug 25 22:34 2022-09-05-TT130-applab.md
+-rw-r--r-- 1 syeung2 syeung2   720 Aug 25 22:34 README.md
 </pre>
 </div>
 </div>
@@ -389,7 +405,7 @@ total 228
 
 
 
-  </div><a class="u-url" href="/xc22/2022/08/24/bash_file.html" hidden></a>
+  </div><a class="u-url" href="/xc22/2022/08/25/bash_file.html" hidden></a>
 </article>
 
       </div>
