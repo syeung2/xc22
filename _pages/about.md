@@ -15,11 +15,31 @@ This is Mr Yeung's Blog about running.
     
     <tr>
         <td>
-            400m
+            <p style="text-align:center">400m</p>
         </td>
         <td>
             0:53
         </td>
     </tr>
+
+    <tr>
+        <td>
+            800m
+        </td>
+        <td>
+            2:02
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            1600m
+        </td>
+        <td>
+            4:53
+        </td>
+    </tr>
+
+
 </table> 
 
