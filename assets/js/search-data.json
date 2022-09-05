@@ -92,10 +92,7 @@
   
 
   
-  
-
-  
-      ,"page12": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://syeung2.github.io/xc22/robots.txt",
