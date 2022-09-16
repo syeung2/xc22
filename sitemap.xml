@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://syeung2.github.io/xc22/jupyter/2022/08/22/JupyterNotebook.html</loc>
+<loc>https://syeung2.github.io/xc22/1.a/2022/08/22/JupyterNotebook.html</loc>
 <lastmod>2022-08-22T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -26,9 +26,5 @@
 </url>
 <url>
 <loc>https://syeung2.github.io/xc22/</loc>
-</url>
-<url>
-<loc>https://syeung2.github.io/xc22/_pages/04_standards.html</loc>
-<lastmod>2022-09-16T13:24:37-05:00</lastmod>
 </url>
 </urlset>
