@@ -1,0 +1,15 @@
+{% assign standardsAll = "1.A:Investigate the situation context or task,1.B:Determine and design an appropriate method or approach to achieve the purpose,1.C:Explain how collaboration affects the development of a solution,1.D:Evaluate solution options" | split: "," %}
+
+
+
+{% for standard in standardsAll %}
+    {% assign standardKeyVal = standard | split ":" %}
+    {% assign standardKey = standardKeyVal[0] %}
+    {% assign standardValue = standardKeyVal[1] %}
+{% endfor %}
+
+{% assign key = 1.A %}
+
+{% if standardKey == key %}
+    {{ standardValue }}
+{% endif %}
