@@ -16,7 +16,9 @@ search_exclude: true
 
   <ul>
   {% for category in categories %}
-    <li><a href="#{{ category }}">{{ category }} test 1</a></li>
+    {% if category == 1.A %}
+      <li><a href="#{{ category }}">{{ category }} test 1</a></li>
+    {% endif %}
   {% endfor %}
   </ul>
 
