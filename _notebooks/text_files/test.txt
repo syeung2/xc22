@@ -1,150 +1,106 @@
-1.	11	Adrian Welton		15:02.10	
+1.	12	Hannah Riggins		17:25.30	
+Del Norte
+2.	11	Tessa Buswell		17:28.80	
+Poway
+3.	10	Emily Russo		17:39.20	
+Del Norte
+4.	10	Kaitlyn Arciaga		17:43.30	
 Westview
-2.	12	Tom Bell		15:14.20	
+5.	11	Ashley Purcell		18:18.90	
+San Marcos
+6.	10	Paige Echsner		18:24.60	
+Del Norte
+7.	9	Lilah Enyedi		18:50.60	
+Del Norte
+8.	12	Madison Dolby		18:54.00	
+San Marcos
+9.	12	Vanessa Ramirez		18:56.30	
+Rancho Bernardo
+10.	9	Addison Shannon		19:01.90	
+Del Norte
+11.	9	Olivia Campos		19:09.40	
 Mt Carmel
-3.	10	Camden Luecht		15:25.00	
-Rancho Bernardo
-4.	10	Luke Jin		15:29.90	
+12.	9	Addison Lane		19:10.00	
 Del Norte
-5.	12	Andrew Presa		15:35.00	
+13.	12	Audra Sutherland		19:18.00	
+Rancho Bernardo
+14.	12	Alana Saadus		19:27.40	
 San Marcos
-6.	12	Derek Kirschbaum		15:37.80	
-Poway
-7.	12	Rowan Nicholas		15:45.30	
+15.	11	Jasmyne Castro		19:40.10	
 Rancho Bernardo
-8.	12	Ryland Arciaga		15:48.30	
-Westview
-9.	9	Cameron Yarbourgh		15:51.50	
+16.	12	Julia Belysheva		19:46.20	
 Del Norte
-10.	11	Stanley Yan		15:51.90	
-Del Norte
-11.	12	Derek Shi		15:52.80	
+17.	11	Olivia Judd		19:51.00	
+Poway
+18.	10	Lieke Everts		19:51.60	
 Mt Carmel
-12.	12	Brandon Day		15:53.20	
-Rancho Bernardo
-13.	12	Connor Klein		15:57.20	
+19.	9	Mackenzie Smith		19:54.70	
 Poway
-14.	12	Arnav Kanekar		16:04.60	
-Del Norte
-15.	12	David Hulterstrom		16:10.30	
-Poway
-16.	10	Rowan Hannaman		16:11.80	
-Westview
-17.	12	Kaipo Christensen		16:13.40	
-Poway
-18.	11	Kaeden Berner		16:13.50	
-Westview
-19.	9	Cooper Castleberry		16:14.50	
-Poway
-20.	12	Eric Semprebon		16:15.30	
-Poway
-21.	12	Nathan Klepper		16:17.40	
+20.	12	Breea Selbrede		19:55.10	
 Mt Carmel
-22.	11	Brogan Fountain		16:31.90	
+21.	11	Olivia Kooyman		19:55.60	
+Westview
+22.	9	Anna Grant		19:57.60	
+Rancho Bernardo
+23.	12	Jessica Shikwana		19:57.90	
+Poway
+24.	11	Dana Hijazi		19:58.60	
+Westview
+25.	9	Veronica Bell		20:03.10	
 Mt Carmel
-23.	11	Matthew Dobrowolski		16:32.20	
+26.	10	Sofia Welton		20:07.90	
 Westview
-24.	11	Nathan Pruetting		16:33.20	
-Poway
-25.	12	Ethan Lance		16:33.60	
+27.	12	Emma Hong		20:13.00	
+Del Norte
+28.	11	Irene Penev		20:14.20	
+Westview
+29.	11	Zayna Hijazi		20:17.10	
+Westview
+30.	12	Megan Werts		20:17.80	
+San Marcos
+31.	12	Kayla Szulc		20:24.40	
+San Marcos
+32.	11	Brianna Busse		20:45.00	
+Del Norte
+33.	11	Sierra Taysom		20:45.20	
 Mt Carmel
-26.	11	Joshua Gill		16:34.90	
-Poway
-27.	10	Michael Thompson		16:36.40	
+34.	11	Kaelyn Style		20:50.10	
+Rancho Bernardo
+35.	12	Hailey Berkson		20:53.60	
+Del Norte
+36.	10	Eva Thomas		20:59.30	
 San Marcos
-28.	10	Matthew Stevens		16:40.70	
+37.	12	Lucy Sullivan		21:00.90	
 Westview
-29.	10	James Hilton		16:41.30	
-Westview
-30.	12	Tony Alcantar		16:41.80	
+38.	11	Naomi Allen		21:06.20	
+San Marcos
+39.	10	Mackenzie Juza		21:12.30	
+Poway
+40.	11	Madison Shaver		21:17.50	
+San Marcos
+41.	11	Delaney Alonso		21:19.70	
 Mt Carmel
-31.	11	Joshua Spurgiesz		16:42.60	
-Del Norte
-32.	12	Andrew Park		16:43.00	
-Rancho Bernardo
-33.	10	Jack Vranish		16:45.20	
+42.	9	Catalina Husseman		21:25.00	
 Poway
-34.	10	Kamran Shah		16:45.30	
-Poway
-35.	9	Parker McDevitt		16:45.50	
+43.	12	Kiana Watson		21:28.30	
 Westview
-36.	12	Carter Schoon		16:52.70	
-Poway
-37.	10	Oscar Huth		16:54.50	
-Poway
-38.	12	Hudson Blattman		16:54.70	
-Rancho Bernardo
-39.	12	Ryan Hurley		16:56.50	
+44.	12	Alexandra Willis		21:41.10	
 San Marcos
-40.	11	Evan Aparri		16:56.90	
-Del Norte
-41.	11	Tyler Xiao		17:02.00	
-Del Norte
-42.	9	Andrew Fegenbush		17:07.00	
+45.	12	Abigail Merino		21:50.20	
 San Marcos
-43.	9	William Liu		17:07.20	
-Rancho Bernardo
-44.	11	Jack Sosa		17:07.60	
-Poway
-45.	9	Maurizio Castellon		17:08.40	
+46.	12	Brooke Carnes		22:15.50	
 San Marcos
-46.	12	Nicholas Chavez		17:12.20	
-Mt Carmel
-47.	11	Jacob Hulterstrom		17:17.60	
-Poway
-48.	10	Taiyo Iwazaki		17:18.60	
+47.	12	Alyssa Weedon		24:09.00	
 Del Norte
-49.	12	Jack Marsh		17:20.30	
-Rancho Bernardo
-50.	10	Jose Ramirez		17:20.80	
-Rancho Bernardo
-51.	12	Jun Lim		17:24.50	
+48.	12	Alexis Sirek		24:18.00	
 Del Norte
-52.	11	Max Schaller		17:36.30	
-Rancho Bernardo
-53.	11	Chase Odom		17:45.90	
+49.	12	Keira Haney		24:22.90	
 San Marcos
-54.	10	Caleb Plastridge		17:47.20	
+50.	12	Audrey Stoffel		24:23.30	
+Rancho Bernardo
+51.	11	Marin Baccei		25:39.40	
+Rancho Bernardo
+52.	12	Denali Dixon		27:02.90	
+Del Norte
+53.	12	Olivia Lawson		35:10.40	
 San Marcos
-55.	12	Ian Kendrick		17:47.80	
-Rancho Bernardo
-56.	11	Jordan Levy		17:58.00	
-Del Norte
-57.	12	Georgi Andreev		17:58.60	
-Rancho Bernardo
-58.	12	Mitchell Krenz		18:13.20	
-Del Norte
-59.	12	Caleb Harris		18:18.40	
-Westview
-60.	12	David Xie		18:18.70	
-Del Norte
-61.	12	Jake Farrell		18:23.20	
-Westview
-62.	11	Noah Harder		18:28.10	
-San Marcos
-63.	12	Lucas Ho		18:36.80	
-Del Norte
-64.	12	Dylan Ward		18:42.30	
-Poway
-65.	12	Andrew Kim		18:44.30	
-Del Norte
-66.	11	Otis Pratt		18:44.40	
-Rancho Bernardo
-67.	12	Vinny Krenz		18:56.40	
-Del Norte
-68.	12	Garin Lee		19:00.60	
-Poway
-69.	12	Evan Stup		19:05.90	
-Rancho Bernardo
-70.	12	Nolan Flores		19:44.20	
-Rancho Bernardo
-71.	12	Luis Gama		19:48.40	
-Del Norte
-72.	12	Max Smith		19:53.40	
-Del Norte
-73.	12	Blaize Fonseca		19:57.50	
-Rancho Bernardo
-74.	12	Aidan Marra		20:29.00	
-Westview
-75.	12	Alan Kim		21:19.10	
-Westview
