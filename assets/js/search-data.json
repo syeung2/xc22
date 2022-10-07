@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Title",
-            "content": "def format_results(resultsin, resultsout): newList = [] final = [] counter = 0 f = open(resultsin) for x in f.readlines(): if counter == 0: newString = x.rstrip() counter = 1 else: newString = newString + &quot; t&quot; + x.rstrip() counter = 0 newList.append(newString) for i in newList: i = i.replace(&quot;.&quot;,&quot;:&quot;) id = i.rsplit(&quot; t&quot;) id.pop(0) id.pop(2) final.append(id) f.close() with open(resultsout, &quot;w&quot;) as f: for line in final: f.write(f&quot;{line[1] + &quot; t&quot; + line[0]+ line[3] + line[2]} n&quot;) f.close() format_results(&quot;text_files/test.txt&quot;, &quot;text_files/2022_palomar_cluster1.txt&quot;) .",
+            "content": "def format_results(resultsin, resultsout): newList = [] final = [] counter = 0 f = open(resultsin) for x in f.readlines(): if counter == 0: newString = x.rstrip() counter = 1 else: newString = newString + &quot; t&quot; + x.rstrip() counter = 0 newList.append(newString) for i in newList: i = i.replace(&quot;.&quot;,&quot;:&quot;) id = i.rsplit(&quot; t&quot;) id.pop(0) id.pop(2) final.append(id) f.close() with open(resultsout, &quot;w&quot;) as f: for line in final: f.write(line[1] + &quot; t&quot; + line[0] + &quot; t&quot; + line[3] + &quot; t&quot; + line[2] + &quot; n&quot;) f.close() format_results(&quot;text_files/test.txt&quot;, &quot;text_files/2022_palomar_cluster1_girls.txt&quot;) .",
             "url": "https://syeung2.github.io/xc22/2022/10/05/xctimes.html",
             "relUrl": "/2022/10/05/xctimes.html",
             "date": " • Oct 5, 2022"
