@@ -1,75 +1,75 @@
-['11', 'Adrian Welton', '15:02:10', 'Westview']
-['12', 'Tom Bell', '15:14:20', 'Mt Carmel']
-['10', 'Camden Luecht', '15:25:00', 'Rancho Bernardo']
-['10', 'Luke Jin', '15:29:90', 'Del Norte']
-['12', 'Andrew Presa', '15:35:00', 'San Marcos']
-['12', 'Derek Kirschbaum', '15:37:80', 'Poway']
-['12', 'Rowan Nicholas', '15:45:30', 'Rancho Bernardo']
-['12', 'Ryland Arciaga', '15:48:30', 'Westview']
-['9', 'Cameron Yarbourgh', '15:51:50', 'Del Norte']
-['11', 'Stanley Yan', '15:51:90', 'Del Norte']
-['12', 'Derek Shi', '15:52:80', 'Mt Carmel']
-['12', 'Brandon Day', '15:53:20', 'Rancho Bernardo']
-['12', 'Connor Klein', '15:57:20', 'Poway']
-['12', 'Arnav Kanekar', '16:04:60', 'Del Norte']
-['12', 'David Hulterstrom', '16:10:30', 'Poway']
-['10', 'Rowan Hannaman', '16:11:80', 'Westview']
-['12', 'Kaipo Christensen', '16:13:40', 'Poway']
-['11', 'Kaeden Berner', '16:13:50', 'Westview']
-['9', 'Cooper Castleberry', '16:14:50', 'Poway']
-['12', 'Eric Semprebon', '16:15:30', 'Poway']
-['12', 'Nathan Klepper', '16:17:40', 'Mt Carmel']
-['11', 'Brogan Fountain', '16:31:90', 'Mt Carmel']
-['11', 'Matthew Dobrowolski', '16:32:20', 'Westview']
-['11', 'Nathan Pruetting', '16:33:20', 'Poway']
-['12', 'Ethan Lance', '16:33:60', 'Mt Carmel']
-['11', 'Joshua Gill', '16:34:90', 'Poway']
-['10', 'Michael Thompson', '16:36:40', 'San Marcos']
-['10', 'Matthew Stevens', '16:40:70', 'Westview']
-['10', 'James Hilton', '16:41:30', 'Westview']
-['12', 'Tony Alcantar', '16:41:80', 'Mt Carmel']
-['11', 'Joshua Spurgiesz', '16:42:60', 'Del Norte']
-['12', 'Andrew Park', '16:43:00', 'Rancho Bernardo']
-['10', 'Jack Vranish', '16:45:20', 'Poway']
-['10', 'Kamran Shah', '16:45:30', 'Poway']
-['9', 'Parker McDevitt', '16:45:50', 'Westview']
-['12', 'Carter Schoon', '16:52:70', 'Poway']
-['10', 'Oscar Huth', '16:54:50', 'Poway']
-['12', 'Hudson Blattman', '16:54:70', 'Rancho Bernardo']
-['12', 'Ryan Hurley', '16:56:50', 'San Marcos']
-['11', 'Evan Aparri', '16:56:90', 'Del Norte']
-['11', 'Tyler Xiao', '17:02:00', 'Del Norte']
-['9', 'Andrew Fegenbush', '17:07:00', 'San Marcos']
-['9', 'William Liu', '17:07:20', 'Rancho Bernardo']
-['11', 'Jack Sosa', '17:07:60', 'Poway']
-['9', 'Maurizio Castellon', '17:08:40', 'San Marcos']
-['12', 'Nicholas Chavez', '17:12:20', 'Mt Carmel']
-['11', 'Jacob Hulterstrom', '17:17:60', 'Poway']
-['10', 'Taiyo Iwazaki', '17:18:60', 'Del Norte']
-['12', 'Jack Marsh', '17:20:30', 'Rancho Bernardo']
-['10', 'Jose Ramirez', '17:20:80', 'Rancho Bernardo']
-['12', 'Jun Lim', '17:24:50', 'Del Norte']
-['11', 'Max Schaller', '17:36:30', 'Rancho Bernardo']
-['11', 'Chase Odom', '17:45:90', 'San Marcos']
-['10', 'Caleb Plastridge', '17:47:20', 'San Marcos']
-['12', 'Ian Kendrick', '17:47:80', 'Rancho Bernardo']
-['11', 'Jordan Levy', '17:58:00', 'Del Norte']
-['12', 'Georgi Andreev', '17:58:60', 'Rancho Bernardo']
-['12', 'Mitchell Krenz', '18:13:20', 'Del Norte']
-['12', 'Caleb Harris', '18:18:40', 'Westview']
-['12', 'David Xie', '18:18:70', 'Del Norte']
-['12', 'Jake Farrell', '18:23:20', 'Westview']
-['11', 'Noah Harder', '18:28:10', 'San Marcos']
-['12', 'Lucas Ho', '18:36:80', 'Del Norte']
-['12', 'Dylan Ward', '18:42:30', 'Poway']
-['12', 'Andrew Kim', '18:44:30', 'Del Norte']
-['11', 'Otis Pratt', '18:44:40', 'Rancho Bernardo']
-['12', 'Vinny Krenz', '18:56:40', 'Del Norte']
-['12', 'Garin Lee', '19:00:60', 'Poway']
-['12', 'Evan Stup', '19:05:90', 'Rancho Bernardo']
-['12', 'Nolan Flores', '19:44:20', 'Rancho Bernardo']
-['12', 'Luis Gama', '19:48:40', 'Del Norte']
-['12', 'Max Smith', '19:53:40', 'Del Norte']
-['12', 'Blaize Fonseca', '19:57:50', 'Rancho Bernardo']
-['12', 'Aidan Marra', '20:29:00', 'Westview']
-['12', 'Alan Kim', '21:19:10', 'Westview']
+Adrian Welton	11	Westview	15:02:10
+Tom Bell	12	Mt Carmel	15:14:20
+Camden Luecht	10	Rancho Bernardo	15:25:00
+Luke Jin	10	Del Norte	15:29:90
+Andrew Presa	12	San Marcos	15:35:00
+Derek Kirschbaum	12	Poway	15:37:80
+Rowan Nicholas	12	Rancho Bernardo	15:45:30
+Ryland Arciaga	12	Westview	15:48:30
+Cameron Yarbourgh	9	Del Norte	15:51:50
+Stanley Yan	11	Del Norte	15:51:90
+Derek Shi	12	Mt Carmel	15:52:80
+Brandon Day	12	Rancho Bernardo	15:53:20
+Connor Klein	12	Poway	15:57:20
+Arnav Kanekar	12	Del Norte	16:04:60
+David Hulterstrom	12	Poway	16:10:30
+Rowan Hannaman	10	Westview	16:11:80
+Kaipo Christensen	12	Poway	16:13:40
+Kaeden Berner	11	Westview	16:13:50
+Cooper Castleberry	9	Poway	16:14:50
+Eric Semprebon	12	Poway	16:15:30
+Nathan Klepper	12	Mt Carmel	16:17:40
+Brogan Fountain	11	Mt Carmel	16:31:90
+Matthew Dobrowolski	11	Westview	16:32:20
+Nathan Pruetting	11	Poway	16:33:20
+Ethan Lance	12	Mt Carmel	16:33:60
+Joshua Gill	11	Poway	16:34:90
+Michael Thompson	10	San Marcos	16:36:40
+Matthew Stevens	10	Westview	16:40:70
+James Hilton	10	Westview	16:41:30
+Tony Alcantar	12	Mt Carmel	16:41:80
+Joshua Spurgiesz	11	Del Norte	16:42:60
+Andrew Park	12	Rancho Bernardo	16:43:00
+Jack Vranish	10	Poway	16:45:20
+Kamran Shah	10	Poway	16:45:30
+Parker McDevitt	9	Westview	16:45:50
+Carter Schoon	12	Poway	16:52:70
+Oscar Huth	10	Poway	16:54:50
+Hudson Blattman	12	Rancho Bernardo	16:54:70
+Ryan Hurley	12	San Marcos	16:56:50
+Evan Aparri	11	Del Norte	16:56:90
+Tyler Xiao	11	Del Norte	17:02:00
+Andrew Fegenbush	9	San Marcos	17:07:00
+William Liu	9	Rancho Bernardo	17:07:20
+Jack Sosa	11	Poway	17:07:60
+Maurizio Castellon	9	San Marcos	17:08:40
+Nicholas Chavez	12	Mt Carmel	17:12:20
+Jacob Hulterstrom	11	Poway	17:17:60
+Taiyo Iwazaki	10	Del Norte	17:18:60
+Jack Marsh	12	Rancho Bernardo	17:20:30
+Jose Ramirez	10	Rancho Bernardo	17:20:80
+Jun Lim	12	Del Norte	17:24:50
+Max Schaller	11	Rancho Bernardo	17:36:30
+Chase Odom	11	San Marcos	17:45:90
+Caleb Plastridge	10	San Marcos	17:47:20
+Ian Kendrick	12	Rancho Bernardo	17:47:80
+Jordan Levy	11	Del Norte	17:58:00
+Georgi Andreev	12	Rancho Bernardo	17:58:60
+Mitchell Krenz	12	Del Norte	18:13:20
+Caleb Harris	12	Westview	18:18:40
+David Xie	12	Del Norte	18:18:70
+Jake Farrell	12	Westview	18:23:20
+Noah Harder	11	San Marcos	18:28:10
+Lucas Ho	12	Del Norte	18:36:80
+Dylan Ward	12	Poway	18:42:30
+Andrew Kim	12	Del Norte	18:44:30
+Otis Pratt	11	Rancho Bernardo	18:44:40
+Vinny Krenz	12	Del Norte	18:56:40
+Garin Lee	12	Poway	19:00:60
+Evan Stup	12	Rancho Bernardo	19:05:90
+Nolan Flores	12	Rancho Bernardo	19:44:20
+Luis Gama	12	Del Norte	19:48:40
+Max Smith	12	Del Norte	19:53:40
+Blaize Fonseca	12	Rancho Bernardo	19:57:50
+Aidan Marra	12	Westview	20:29:00
+Alan Kim	12	Westview	21:19:10
