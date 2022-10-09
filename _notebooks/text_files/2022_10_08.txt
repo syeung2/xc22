@@ -1,0 +1,158 @@
+Ryan Thomas	12	Torrey Pines	15:28:60
+Nathan Christmore	12	Torrey Pines	16:04:50
+Saul Johnson	12	Torrey Pines	16:34:30
+Matt Conway	11	Torrey Pines	16:34:60
+Spencer Borin	11	Torrey Pines	16:55:10
+Jonas Rickert	11	Torrey Pines	17:11:60
+Bryce Conover	11	Torrey Pines	19:24:60
+Jacob Pippel	11	Canyon Crest Academy	16:35:70
+Logan Harding	12	Canyon Crest Academy	17:02:10
+William Cornick	12	Canyon Crest Academy	17:10:70
+Ryan Jabro	11	Canyon Crest Academy	17:15:50
+Ravi Achar	11	Canyon Crest Academy	17:20:60
+Nolan Zerboni	9	Canyon Crest Academy	17:22:90
+Alexander Guillen	12	Canyon Crest Academy	17:45:50
+Omar Reyes	11	El Camino (Oceanside)	15:32:00
+Derek Kirschbaum	12	Poway	16:19:80
+Arnav Kanekar	12	Del Norte	16:33:00
+Captain Burnett	12	San Diego	16:34:80
+Connor Klein	12	Poway	16:35:10
+Luke Jin	10	Del Norte	16:36:80
+Joel Ras	11	Mission Hills	16:42:60
+Eric Semprebon	12	Poway	16:43:70
+Carlos Gorostieta	10	El Camino (Oceanside)	17:09:20
+Liam Beighley	10	Mission Hills	17:33:80
+Jaeden Tran	11	Mission Hills	17:41:30
+Jakob Watson	12	El Camino (Oceanside)	18:09:70
+James Karpinski	12	San Diego	18:10:10
+Pablo Sayas	9	San Diego	18:10:20
+Cameron Yarbourgh	9	Del Norte	16:36:90
+Stanley Yan	11	Del Norte	16:56:10
+Joshua Gill	11	Poway	16:59:70
+David Hulterstrom	12	Poway	17:01:50
+Ryker Ehmann	9	San Diego	18:13:40
+Samuel Fredrickson	10	El Camino (Oceanside)	18:13:70
+Clark Tansey	11	San Diego	18:15:30
+Victor Marquez Cruz	12	El Camino (Oceanside)	18:20:30
+Austin Smith	11	Mission Hills	18:52:50
+Landen Fesser	10	Mission Hills	18:56:70
+Kaipo Christensen	12	Poway	17:13:00
+Cooper Castleberry	9	Poway	17:15:80
+Ryan Romero	9	El Camino (Oceanside)	17:59:50
+Joshua Spurgiesz	11	Del Norte	18:23:60
+Greyson Rose	11	El Camino (Oceanside)	18:28:20
+Nathaniel Beifuss	12	San Diego	19:00:30
+Tyler Oneal Westerweck	11	San Diego	19:04:30
+Quinn Davis	10	Del Norte	19:14:50
+Jonathan Rodriquez	10	Mission Hills	20:19:80
+Luis Gonzalez	9	Mission Hills	20:20:90
+Drake Hoferer	9	Poway	17:50:70
+Ben Owsley	9	Del Norte	18:58:80
+Isaac Bradshaw	9	Del Norte	19:18:60
+Bodhi Donaldson	9	El Camino (Oceanside)	19:18:90
+Miles Andruss	10	Poway	19:46:80
+Adam Gregg	9	Poway	19:52:30
+Danny Fitzwilliam	9	Del Norte	19:57:00
+Noah Picha	9	El Camino (Oceanside)	19:57:80
+Maxton Henderson	10	Poway	20:00:00
+Ethan Pham	9	El Camino (Oceanside)	20:16:60
+Salvador De Leon	9	El Camino (Oceanside)	20:31:90
+Brayden Bithell	9	Poway	20:40:80
+Isaiah Nordhues	9	El Camino (Oceanside)	20:46:30
+Ethan Davis	10	Poway	20:47:70
+Wyatt Spencer	9	San Diego	20:49:40
+Aditya Desai	9	Del Norte	20:53:80
+Daniel Ordonez	9	El Camino (Oceanside)	20:55:60
+Achilleas Asimakopoulus	9	El Camino (Oceanside)	21:09:70
+Isaac Ortiz	9	El Camino (Oceanside)	21:11:10
+Vicente Sayas	11	San Diego	21:11:20
+Sebastian Hubley	9	San Diego	21:31:50
+Blake Edmonston	9	Poway	22:10:30
+Sebastian Torres	11	Poway	22:13:10
+Corbin Killough	9	Poway	22:40:80
+Brandon Thai Van Dat	9	Poway	22:42:90
+Tommy Bolanos	9	El Camino (Oceanside)	22:49:00
+Kenji Catubo	9	El Camino (Oceanside)	22:54:60
+Evander Guanuna	9	Poway	23:03:20
+Jaden Cha	10	Del Norte	23:08:30
+Zane Cook	10	San Diego	23:09:80
+Ariel Cohen	9	Poway	23:10:10
+Aaron Hoey	9	Poway	23:28:20
+Marshall Bobotis	9	San Diego	23:39:80
+Eli Kruglick	10	Poway	24:01:70
+Matthew Stokes	10	Poway	24:30:60
+Nathan Everett-Hai	11	Poway	25:26:60
+Sky Deuel	11	San Diego	26:29:90
+Jose Ochoa	10	Poway	28:28:30
+Caleb Knickerbocker	9	San Diego	28:59:90
+Isaac Rojas-Valdovinos	11	San Diego	20:08:60
+Daniel Cardiel	10	San Diego	20:25:30
+Knightly Beckham Arias	10	San Diego	20:42:00
+Zachary Anderson	12	San Diego	20:44:10
+Sven Andersen	11	San Diego	21:29:30
+Ben Worley	11	San Diego	21:52:60
+Sabian Scrivner	10	San Diego	22:05:20
+Carter Humphrey	12	San Diego	22:23:10
+Nathan Pruetting	11	Poway	17:43:90
+Carter Schoon	12	Poway	17:59:10
+Oscar Huth	10	Poway	18:06:20
+Evan Aparri	11	Del Norte	18:10:30
+Tyler Xiao	11	Del Norte	18:16:80
+Sean Chang	10	Del Norte	18:19:20
+Kamran Shah	10	Poway	18:21:30
+Taiyo Iwazaki	10	Del Norte	18:24:50
+Jack Sosa	11	Poway	18:36:00
+Jacob Hulterstrom	11	Poway	18:39:60
+Alex Obert	10	Poway	18:56:40
+Jun Lim	12	Del Norte	18:58:10
+Jordan Levy	11	Del Norte	19:02:20
+Aidan Marshall	10	Poway	19:10:60
+Ethan Wolf	11	Del Norte	19:13:50
+Mitchell Krenz	12	Del Norte	19:27:80
+Logan Watson	10	El Camino (Oceanside)	19:30:30
+Kaiden Godkin	10	Del Norte	19:34:30
+David Xie	12	Del Norte	19:41:30
+Brandon Sorenson	12	El Camino (Oceanside)	19:46:90
+Lucas Ho	12	Del Norte	19:53:60
+Garin Lee	12	Poway	19:57:70
+Gavin Forrest	11	Del Norte	20:02:90
+Dylan Kim	11	Del Norte	20:07:20
+Peter Akinpelu	11	Del Norte	20:11:70
+Vinny Krenz	12	Del Norte	20:12:50
+Alexander Zhai	11	Del Norte	20:19:50
+Dylan Ward	12	Poway	20:26:60
+Enmanuel Perez	11	El Camino (Oceanside)	20:30:00
+Everett Guanuna	11	Poway	20:35:30
+Dominic Sales	11	El Camino (Oceanside)	20:36:10
+Steven Salsido	10	El Camino (Oceanside)	20:40:60
+Andrew Kim	12	Del Norte	20:41:60
+Jonathan Wu	11	Del Norte	20:50:20
+Jacob Racela	10	El Camino (Oceanside)	20:56:00
+Zane Obrite	10	El Camino (Oceanside)	20:56:50
+Raymond Sheng	10	Del Norte	20:57:00
+Elijah Bradshaw	12	Del Norte	20:58:10
+Owen Kim	11	Del Norte	21:21:10
+Jack Laidlaw	9	Mission Hills	21:22:50
+Luis Gama	12	Del Norte	21:24:10
+Tay Kim	10	Del Norte	21:25:10
+Jean Kim	12	Del Norte	21:36:50
+Mason Marquez	10	Mission Hills	21:37:00
+Bryan Wang	10	Del Norte	21:38:80
+Luis Mendoza	11	El Camino (Oceanside)	22:00:70
+Matthew Pham	10	Del Norte	22:37:40
+Devin Gallagher	10	El Camino (Oceanside)	23:03:80
+Andrew Barnett	10	Mission Hills	23:09:90
+Ben Abraham	10	Del Norte	23:12:50
+Max Smith	12	Del Norte	23:23:90
+Adan Montanez	11	Mission Hills	23:42:30
+Luis Gonzalez	9	Mission Hills	24:08:00
+Enrique Santos Martinez	11	El Camino (Oceanside)	24:20:60
+Jake Medina	12	El Camino (Oceanside)	24:35:20
+Alexander Walicki	10	Del Norte	24:50:40
+Micah Romaine Gleim	11	Patrick Henry	16:55:40
+Cooper Lawrence	11	Patrick Henry	17:08:70
+Ian Prunty	12	Patrick Henry	17:12:30
+Charles Graff	12	Patrick Henry	17:25:40
+George Reinig	12	Patrick Henry	17:28:10
+Jack Reinig	12	Patrick Henry	18:41:50
+Matthew Perez	12	Patrick Henry	18:56:70
