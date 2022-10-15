@@ -3,9 +3,9 @@
     
         "post0": {
             "title": "Title",
-            "content": "def time_in_seconds(time): splits = time.split(&quot;:&quot;) seconds = float(splits[0]) * 60 + float(splits[1]) return seconds time_in_seconds(&quot;20:57.27&quot;) . 1257.27 .",
-            "url": "https://syeung2.github.io/xc22/2022/10/13/time_to_seconds.html",
-            "relUrl": "/2022/10/13/time_to_seconds.html",
+            "content": "def time_in_seconds(time): splits = time.split(&quot;:&quot;) seconds = float(splits[0]) * 60 + float(splits[1]) return seconds def file_to_seconds(file): times = [] f = open(file) for x in f.readlines(): times.append(time_in_seconds(x)) f.close() return times def print_lines(times): for i in times: print(i) print_lines(file_to_seconds(&quot;text_files/test.txt&quot;)) . def time_in_minutes(time): time = float(time) / 60 timeCo = str(time) timeCo = timeCo.split(&quot;.&quot;) minutes = timeCo[0] seconds = &quot;0.&quot; + str(timeCo[1]) seconds = float(seconds) * 60 seconds = round(seconds,2) if seconds &gt; 10: times = str(minutes) + &quot;:&quot; + str(seconds) else: times = str(minutes) + &quot;:0&quot; + str(seconds) return times def file_to_minutes(file): times = [] f = open(file) for x in f.readlines(): times.append(time_in_minutes(x)) f.close() return times def print_lines(times): for i in times: print(i) print_lines(file_to_minutes(&quot;text_files/test.txt&quot;)) .",
+            "url": "https://syeung2.github.io/xc22/2022/10/13/time_converter.html",
+            "relUrl": "/2022/10/13/time_converter.html",
             "date": " • Oct 13, 2022"
         }
         
