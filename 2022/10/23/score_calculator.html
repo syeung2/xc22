@@ -1,0 +1,29 @@
+<h1 id="score-calculator">Score Calculator</h1>
+
+<script>
+var clicks = 0;
+var counter = 1;
+function onClick() {
+  clicks += counter;
+  counter +=1;
+  document.getElementById("clicks").innerHTML = clicks;
+};
+</script>
+
+<p><button type="button" onclick="onClick()">Del Norte</button></p>
+<p>Score: <a id="clicks">0</a></p>
+
+<p><button type="button" onclick="onClick()">Mt Carmel</button></p>
+<p>Score: <a id="clicks">0</a></p>
+
+<p><button type="button" onclick="onClick()">Poway</button></p>
+<p>Score: <a id="clicks">0</a></p>
+
+<p><button type="button" onclick="onClick()">Rancho Bernardo</button></p>
+<p>Score: <a id="clicks">0</a></p>
+
+<p><button type="button" onclick="onClick()">San Marcos</button></p>
+<p>Score: <a id="clicks">0</a></p>
+
+<p><button type="button" onclick="onClick()">Westview</button></p>
+<p>Score: <a id="clicks">0</a></p>
