@@ -1,21 +1,130 @@
-946.063
-970.033
-972.1856
-979.5458
-985.5148
-996.8606
-1019.7966
-921.717
-944.1548
-952.0602
-962.5506
-977.4966
-993.8056
-1033.8966
-908.8672
-917.3648
-967.119
-974.6108
-1000.2258
-1053.5238
-1124.5408
+1.	10	Kaitlyn Arciaga		16:49.8	
+Westview
+2.	12	Claire Stuvland		17:22.4	
+Trabuco Hills
+3.	9	Anna Desormeau		17:49.1	
+Trabuco Hills
+4.	11	Brianna Busse		18:09.4	
+Del Norte
+5.	9	Jaylynn Erickson		18:15.1	
+Mission Vista
+6.	12	Emma Hong		18:31.2	
+Del Norte
+7.	10	Kahli Dugan		18:43.3	
+Trabuco Hills
+8.	9	Kayla Skinner		18:45.1	
+Trabuco Hills
+9.	9	Millie Bayles		18:45.8	
+Trabuco Hills
+10.	12	Trinity Solomon		19:00.6	
+Valhalla
+11.	9	Emily Giron		19:04.0	
+Valley Center
+12.	11	Dana Hijazi		19:06.6	
+Westview
+13.	12	Jordan Davis		19:06.9	
+Trabuco Hills
+14.	11	Alana Perry		19:11.6	
+Valhalla
+15.	9	Addison Lane		19:12.9	
+Del Norte
+16.	11	Irene Penev		19:16.1	
+Westview
+17.	12	Hailey Berkson		19:17.0	
+Del Norte
+18.	12	Liana Brehm		19:20.2	
+Paloma Valley
+19.	9	Jasmina Guachino		19:23.1	
+Valley Center
+20.	12	Jasmin Liao		19:24.1	
+Trabuco Hills
+21.	11	Anna Prasouvo		19:26.2	
+Del Norte
+22.	11	Olivia Kooyman		19:27.5	
+Westview
+23.	9	Samhita Lagisetti		19:31.5	
+Del Norte
+24.	11	Zayna Hijazi		19:31.5	
+Westview
+25.	12	Michelle Aguilar		19:32.8	
+Vista
+26.	12	Hannah Arellano		19:35.8	
+Escondido
+27.	11	Melayna Sweeney		19:36.4	
+Mission Vista
+28.	11	Kayla Haas		19:38.2	
+Valhalla
+29.	9	Addison Spurgiesz		19:50.8	
+Del Norte
+30.	12	Ava Colton		19:52.1	
+Mission Vista
+31.	10	Kalea Kennedy		19:53.4	
+Westview
+32.	12	Jessica Barnum		19:57.6	
+Mission Vista
+33.	10	Avery Musnicki		19:59.0	
+Mission Vista
+34.	9	Sonya Yasuda		20:04.3	
+Westview
+35.	10	Sheanen Harrison		20:04.6	
+Paloma Valley
+36.	12	Alexis Hammond		20:07.7	
+Coronado
+37.	10	Yara Ibrahim		20:07.8	
+Valhalla
+38.	10	Sophia Chin		20:10.3	
+Cambridge
+39.	10	Sofia Bedolla		20:14.4	
+Paloma Valley
+40.	10	Emma Smith		20:15.1	
+Mission Vista
+41.	9	Olivia Rilea		20:27.1	
+Vista
+42.	10	Anna O'Neill		20:34.8	
+Cambridge
+43.	9	Juliana Sutherland		20:36.9	
+Del Norte
+44.	9	Morgan Maske		20:37.4	
+Coronado
+45.	11	Kelly Aviles		20:56.1	
+Escondido
+46.	11	Aliyah Hester		21:04.2	
+Paloma Valley
+47.	10	Olivia Larimore		21:10.3	
+Vista
+48.	11	Annabella Stern		21:13.2	
+Canyon Hills
+49.	11	Natalia Amkie		21:16.6	
+Coronado
+50.	11	Monica Oseguera		21:16.6	
+Escondido
+51.	11	Bailey Lenz		21:41.4	
+Valhalla
+52.	11	Daisy Leiva		22:05.8	
+Escondido
+53.	11	Rebekah Burger		22:07.9	
+Cambridge
+54.	12	Callie White		22:11.5	
+Canyon Hills
+55.	11	Landree Stewart		22:15.7	
+Escondido
+56.	11	Gabriella Hernandez		22:21.2	
+Vista
+57.	12	Teresa Reza		22:44.5	
+Escondido
+58.	10	Melanie Marovich		22:48.6	
+Vista
+59.	11	Hoku Nakasone		22:49.4	
+Paloma Valley
+60.	11	Alondra Reyes		23:00.6	
+Vista
+61.	12	Kyla Becker		23:26.9	
+Canyon Hills
+62.	12	Jaiden Kelly		23:37.2	
+Paloma Valley
+63.	10	Danica Bonds		23:54.9	
+Escondido
+64.	12	Aileen Menchaca		24:18.5	
+Vista
+65.	12	Allison Jones		24:58.8	
+Paloma Valley
