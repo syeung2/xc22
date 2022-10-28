@@ -17,7 +17,7 @@ var counter = 1;
 function onClickDN() {
   clicksDN += counter;
   counter +=1;
-  if (countsDN <= 5){
+  if (countDN <= 5){
     document.getElementById("clicksDN").innerHTML = clicksDN;
   }
   countDN +=1;
