@@ -17,7 +17,9 @@ var counter = 1;
 function onClickDN() {
   clicksDN += counter;
   counter +=1;
-  document.getElementById("clicksDN").innerHTML = clicksDN;
+  if (countsDN <= 5){
+    document.getElementById("clicksDN").innerHTML = clicksDN;
+  }
   countDN +=1;
   document.getElementById("countDN").innerHTML = countDN;
 };
@@ -54,7 +56,7 @@ function onClickWV() {
   counter +=1;
   document.getElementById("clicksWV").innerHTML = clicksWV;
   countWV +=1;
-  document.getElementById("countDN").innerHTML = countWV;
+  document.getElementById("countWV").innerHTML = countWV;
 };
 </script>
 
