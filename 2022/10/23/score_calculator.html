@@ -16,7 +16,9 @@ var countWV = 0;
 var counter = 1;
 function onClickDN() {
   clicksDN += counter;
-  counter +=1;
+  if (countDN < 7){
+    counter +=1;
+  }
   if (countDN < 5){
     document.getElementById("clicksDN").innerHTML = clicksDN;
   }
@@ -25,7 +27,9 @@ function onClickDN() {
 };
 function onClickMC() {
   clicksMC += counter;
-  counter +=1;
+  if (countMC < 7){
+    counter +=1;
+  }
   if (countMC < 5){
     document.getElementById("clicksMC").innerHTML = clicksMC;
   }
@@ -34,7 +38,9 @@ function onClickMC() {
 };
 function onClickPO() {
   clicksPO += counter;
-  counter +=1;
+  if (countPO < 7){
+    counter +=1;
+  }
   if (countPO < 5){
   document.getElementById("clicksPO").innerHTML = clicksPO;
   }
@@ -43,7 +49,9 @@ function onClickPO() {
 };
 function onClickRB() {
   clicksRB += counter;
-  counter +=1;
+  if (countRB < 7){
+    counter +=1;
+  }
   if (countRB < 5){
   document.getElementById("clicksRB").innerHTML = clicksRB;
   }
@@ -52,7 +60,9 @@ function onClickRB() {
 };
 function onClickSM() {
   clicksSM += counter;
-  counter +=1;
+  if (countSM < 7){
+    counter +=1;
+  }
   if (countSM < 5){
   document.getElementById("clicksSM").innerHTML = clicksSM;
   }
@@ -61,7 +71,9 @@ function onClickSM() {
 };
 function onClickWV() {
   clicksWV += counter;
-  counter +=1;
+  if (countWV < 7){
+    counter +=1;
+  }
   if (countWV < 5){
   document.getElementById("clicksWV").innerHTML = clicksWV;
   }
