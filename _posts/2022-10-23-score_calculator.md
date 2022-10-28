@@ -9,34 +9,34 @@ var clicksSM = 0;
 var clicksWV = 0;
 var counter = 1;
 function onClickDN() {
-  clicks += counter;
+  clicksDN += counter;
   counter +=1;
-  document.getElementById("clicksDN").innerHTML = clicks;
+  document.getElementById("clicksDN").innerHTML = clicksDN;
 };
 function onClickMC() {
-  clicks += counter;
+  clicksMC += counter;
   counter +=1;
-  document.getElementById("clicksMC").innerHTML = clicks;
+  document.getElementById("clicksMC").innerHTML = clicksMC;
 };
 function onClickPO() {
-  clicks += counter;
+  clicksPO += counter;
   counter +=1;
-  document.getElementById("clicksPO").innerHTML = clicks;
+  document.getElementById("clicksPO").innerHTML = clicksPO;
 };
 function onClickRB() {
-  clicks += counter;
+  clicksRB += counter;
   counter +=1;
-  document.getElementById("clicksRB").innerHTML = clicks;
+  document.getElementById("clicksRB").innerHTML = clicksRB;
 };
 function onClickSM() {
-  clicks += counter;
+  clicksSM += counter;
   counter +=1;
-  document.getElementById("clicksSM").innerHTML = clicks;
+  document.getElementById("clicksSM").innerHTML = clicksSM;
 };
 function onClickWV() {
-  clicks += counter;
+  clicksWV += counter;
   counter +=1;
-  document.getElementById("clicksWV").innerHTML = clicks;
+  document.getElementById("clicksWV").innerHTML = clicksWV;
 };
 </script>
 
