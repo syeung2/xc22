@@ -17,7 +17,7 @@ var counter = 1;
 function onClickDN() {
   clicksDN += counter;
   counter +=1;
-  if (countDN <= 5){
+  if (countDN < 5){
     document.getElementById("clicksDN").innerHTML = clicksDN;
   }
   countDN +=1;
@@ -26,35 +26,45 @@ function onClickDN() {
 function onClickMC() {
   clicksMC += counter;
   counter +=1;
-  document.getElementById("clicksMC").innerHTML = clicksMC;
+  if (countMC < 5){
+    document.getElementById("clicksMC").innerHTML = clicksMC;
+  }
   countMC +=1;
   document.getElementById("countMC").innerHTML = countMC;
 };
 function onClickPO() {
   clicksPO += counter;
   counter +=1;
+  if (countPO < 5){
   document.getElementById("clicksPO").innerHTML = clicksPO;
+  }
   countPO +=1;
   document.getElementById("countPO").innerHTML = countPO;
 };
 function onClickRB() {
   clicksRB += counter;
   counter +=1;
+  if (countRB < 5){
   document.getElementById("clicksRB").innerHTML = clicksRB;
+  }
   countRB +=1;
   document.getElementById("countRB").innerHTML = countRB;
 };
 function onClickSM() {
   clicksSM += counter;
   counter +=1;
+  if (countSM < 5){
   document.getElementById("clicksSM").innerHTML = clicksSM;
+  }
   countSM +=1;
   document.getElementById("countSM").innerHTML = countSM;
 };
 function onClickWV() {
   clicksWV += counter;
   counter +=1;
+  if (countWV < 5){
   document.getElementById("clicksWV").innerHTML = clicksWV;
+  }
   countWV +=1;
   document.getElementById("countWV").innerHTML = countWV;
 };
