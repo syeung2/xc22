@@ -41,19 +41,19 @@ function onClickWV() {
 </script>
 
 <button type="button" onClick="onClickDN()">Del Norte</button>
-<p>Score: <a id="clicksDN">0</a></p>
+<p>Score: <a id="clicksDN">0</a>Count: <a id="countDN">0</a></p>
 
 <button type="button" onClick="onClickMC()">Mt Carmel</button>
-<p>Score: <a id="clicksMC">0</a></p>
+<p>Score: <a id="clicksMC">0</a>Count: <a id="countMC">0</a></p>
 
 <button type="button" onClick="onClickPO()">Poway</button>
-<p>Score: <a id="clicksPO">0</a></p>
+<p>Score: <a id="clicksPO">0</a>Count: <a id="countPO">0</a></p>
 
 <button type="button" onClick="onClickRB()">Rancho Bernardo</button>
-<p>Score: <a id="clicksRB">0</a></p>
+<p>Score: <a id="clicksRB">0</a>Count: <a id="countRB">0</a></p>
 
 <button type="button" onClick="onClickSM()">San Marcos</button>
-<p>Score: <a id="clicksSM">0</a></p>
+<p>Score: <a id="clicksSM">0</a>Count: <a id="countSM">0</a></p>
 
 <button type="button" onClick="onClickWV()">Westview</button>
-<p>Score: <a id="clicksWV">0</a></p>
+<p>Score: <a id="clicksWV">0</a>Count: <a id="countWV">0</a></p>
